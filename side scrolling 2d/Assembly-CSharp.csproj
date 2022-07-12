@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <None Include="Assets\Sprite\Character\Read Me.txt" />
     <Reference Include="UnityEngine">
         <HintPath>D:\UNITY\TEXT EDITOR\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
